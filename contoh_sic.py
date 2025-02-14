@@ -1,1 +1,1 @@
-import from machine
+from machine import Pin
